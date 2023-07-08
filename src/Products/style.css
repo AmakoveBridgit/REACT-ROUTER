@@ -1,0 +1,48 @@
+.products{
+    display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border: none;
+  background-color: darkkhaki;
+
+
+  
+  /* gap: 10%;  */
+  /* width: 20%; */
+  margin: 15px;
+  padding: 50px;
+}
+.productKey{
+    margin: 10px;
+  padding: 10px;
+  border: 1px solid #e33c3c;
+  border-radius: 5px;
+  text-align: center;
+  /* gap: 10%; */
+  
+}
+.image{
+    width: 40%;
+    /* height: 50px; */
+    /* object-fit: cover; */
+    gap: 5%;
+    /* border: solid 1px blueviolet; */
+    
+}
+.price{
+    font-weight: bold;
+}
+.Discount{
+    color :blue;
+}
+.all{
+  font-size: 70px;
+  text-align: center;
+}
+.button{
+  background-color: rgb(249, 218, 178);
+  padding:  20px 40px;
+  /* border-radius: 30px; */
+  border: none;
+  
+}

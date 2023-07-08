@@ -1,0 +1,29 @@
+.form {
+    width:40%;
+    margin: 0 auto;
+    
+}
+
+.form >button{
+    border:none;
+    border-radius: 10px;
+    background-color: rgb(56, 219, 56);
+    padding: 12px 60px;
+    color:black;
+    
+}
+
+.form > input{
+    padding:20px 60px ;
+    width:100px ;
+    border: solid  1px rgb(201, 79, 48);
+    border-radius: 10px;
+}
+.buttn{
+    border: none;
+border-radius: 5px;
+background-color: rgb(209, 175, 51) ;
+padding: 12px 60px;
+/* color: rgb(8, 9, 2); */
+color: black;
+}

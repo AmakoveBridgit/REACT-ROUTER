@@ -1,0 +1,26 @@
+.productimage{
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5%;
+    margin-left: 30%;
+}
+.img{
+    width: 20%;
+    border: none;
+    /* flex-direction: column; */
+}
+.product{
+    /* flex-direction: column; */
+    /* width: 20%; */
+
+    /* display: flex; */
+    border: none;
+    /* text-align: center; */
+    margin: 50px;
+
+}
+.det{
+    text-align: center;
+    font-size: 30px;
+}
